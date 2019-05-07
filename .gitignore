@@ -12,3 +12,5 @@ local.cmake
 CMakeLists.txt.user
 
 *.autosave
+
+__build
